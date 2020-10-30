@@ -16,4 +16,4 @@ Thank you <3
 
 
 
-// Readme contains nothins atm
+// Readme contains nothing atm
